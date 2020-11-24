@@ -1,8 +1,8 @@
-FirstName: {{ FirstName }}
-LastName: {{ LastName }}
-MatriculationNumber: {{ MatriculationNumber }}
+FirstName: {{ Tancredi }}
+LastName: {{ Zini }}
+MatriculationNumber: {{ 155051 }}
 AcademicYear: 2019-2020
-GitHubUrl: YourGithubRepositoryURL
+GitHubUrl: https://github.com/TancrediZini/dncs-lab
 Subnets:
   HostsA:
     RequiredAddresses: {{ HostsASubnetRequiredAddresses }}
