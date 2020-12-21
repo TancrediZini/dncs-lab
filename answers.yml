@@ -1,0 +1,18 @@
+FirstName: {{ Tancredi }}
+LastName: {{ Zini }}
+MatriculationNumber: {{ 155051 }}
+AcademicYear: 2019-2020
+GitHubUrl: https://github.com/TancrediZini/dncs-lab
+Subnets:
+  HostsA:
+    RequiredAddresses: 160
+    SubnetAddress: YourHostsASubnetAddress
+    SubnetPrefixLength: YourHostsASubnetPrefixLength
+  HostsB:
+    RequiredAddresses: 344
+    SubnetAddress: YourHostsBSubnetAddress
+    SubnetPrefixLength: YourHostsBSubnetPrefixLength
+  Hub:
+    RequiredAddresses: 212
+    SubnetAddress: YourHubSubnetAddress
+    SubnetPrefixLength: YourHubSubnetPrefixLength
